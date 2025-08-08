@@ -4,4 +4,7 @@ This is a simulation of the California gubernatorial recall system discussed in 
 
 1. The main simulation is in the file ca_recall_simulation.ipynb.
 2. The 'data' folder contains the data produced by the simulation.
-3. Code to produce the figures in the paper is in the file ca_recall_visualization.ipynb.
+3. Code to produce Figures 12, 13, and 15 is in the file ca_recall_visualization.ipynb.
+4. Code to produce Figures 10, 11, and 14 is in the file visualize_dirichlet.ipynb.
+5. An implementation of the urn process described in Box 1 is in the file dirichlet_urn_process.ipynb.
+
